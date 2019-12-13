@@ -1,0 +1,19 @@
+html {
+  background-image: url("../images/starfield.png");
+  color: #fff;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+main {
+  position: absolute;
+  top: 270px;
+}
+
+h1, p {
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, .7);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
